@@ -1,0 +1,8 @@
+.popoverItem {
+  display: block;
+}
+
+.headerProfile {
+  float: right;
+  cursor: pointer;
+}

@@ -1,0 +1,36 @@
+
+.layout {
+  min-height: '100vh';
+}
+.sidemenu {
+  height: '100vh';
+}
+
+.header {
+  background-color: #FFFFFF;
+  z-index: 999;
+  padding: 0px 16px 0px 16px;
+  box-shadow: 0px 0px 5px -1px #000000;
+}
+.logo {
+  display: inline;
+}
+.avatar {
+  float: right;
+  margin: 12px 0px 12px 12px;
+}
+.user {
+  font-size: 18px;
+  float: right;
+}
+.content {
+  margin: 0px 16px 0px 16px;
+  overflow: scroll;
+}
+.contentContainer {
+  background-color: #FFFFFF;
+  padding: 24px;
+}
+.footer {
+  text-align: center;
+}
